@@ -1,0 +1,36 @@
+﻿  functions.cpp
+C:\Users\SebastianW\source\repos\Render2\Render2\functions.cpp(53,57): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\functions.cpp(59,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\functions.cpp(62,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  renderer.cpp
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(72,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(72,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(72,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(72,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(73,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(73,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(73,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(73,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(74,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(74,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(74,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(74,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(75,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(75,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(75,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(75,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(92,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(93,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(105,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(106,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(127,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(128,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(144,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(145,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(224,41): error C2065: 'PI': undeclared identifier
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(224,17): error C2737: 'angleIncrement': const object must be initialized
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(227,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(228,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(241,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SebastianW\source\repos\Render2\Render2\renderer.cpp(242,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
